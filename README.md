@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## React-three-fiber
+
+[React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) is a React renderer for three.js.
+
+[basic-demo](https://codesandbox.io/p/sandbox/basic-demo-rrppl0y8l4?file=%2Fsrc%2FApp.js)
+
+## threejs
+
+[点光源（PointLight）](https://threejs.org/docs/#api/zh/lights/PointLight)  
+
+
 ## Getting Started
 
 First, run the development server:
